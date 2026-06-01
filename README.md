@@ -49,6 +49,7 @@ d)	Calculate the values of Z parameter using Equation (1) &(2).
 e)	Switch ‘OFF’ the supply after taking thereadings.
 
 **Mark split up:**
+<img width="1400" height="1440" alt="WhatsApp Image 2026-05-24 at 2 35 32 PM (2)" src="https://github.com/user-attachments/assets/ba3dcb01-0e4d-4329-a19d-2c6bbe629bfc" />
 
 
 **RESULT:**
